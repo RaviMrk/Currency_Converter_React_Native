@@ -2,8 +2,8 @@
 Covert Indian currency to Diffrent currency
 
 ## ScreenShots
-<img src="screenshots/Screenshot_2019-07-27-19-11-08-02.png" width=250px />
-<img src="screenshots/Screenshot_2019-07-27-19-11-21-73.png" width=250px />
+<img src="screenshots/Screenshot_2019-07-27-19-11-08-02.png" width=250px />                  <img src="screenshots/Screenshot_2019-07-27-19-11-21-73.png" width=250px />
+
 
 
 
