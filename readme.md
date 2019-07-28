@@ -31,6 +31,7 @@ Covert Indian currency to Diffrent currency
 4. Install packages: `npm install` 
 5. Run Project: `npm start`
 6. Open your browser at: `http://localhost:port`
+7. Scan QR code in your mobile Expo App
 
 
 
